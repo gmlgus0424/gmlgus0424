@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HEEJIN%20GITHUB&fontSize=90)
 <p align="center">	
-
+<img src="https://github.com/gmlgus0424/gmlgus0424/assets/81346229/b4bfe614-6c8e-42c0-bb9b-d89753c0682e"/>
+  
 #
   <div>
 <h3 align="center"><b>🛠 Front-end Stack 🛠<b></h3></br>
